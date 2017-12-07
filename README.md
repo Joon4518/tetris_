@@ -1,5 +1,5 @@
 # Tetris  
-![Image](./micro_tetris.png)
+![Image](./micro-tetris.png)
 ##
 ## 선택 이유 및 개요
 
